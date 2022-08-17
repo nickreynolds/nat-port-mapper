@@ -59,6 +59,8 @@ Forked from [@achingbrain/nat-port-matter](https://github.com/achingbrain/nat-po
 
 ## Additional Information
 
+Purpose of this repo is to figure out why can't include @achingbrain/nat-port-mapper (and other packages build with `aegir`) in Jest tests
+
 - http://miniupnp.free.fr/nat-pmp.html
 - http://wikipedia.org/wiki/NAT_Port_Mapping_Protocol
 - http://tools.ietf.org/html/draft-cheshire-nat-pmp-03
