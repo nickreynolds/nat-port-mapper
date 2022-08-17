@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/nickreynolds/nat-port-mapper/compare/v1.0.0...v1.0.1) (2022-08-17)
+
+
+### Bug Fixes
+
+* update package name ([ba29c80](https://github.com/nickreynolds/nat-port-mapper/commit/ba29c804bd70fc13d5fd5bad4443d346f186a1fa))
+
 ## 1.0.0 (2022-08-17)
 
 
