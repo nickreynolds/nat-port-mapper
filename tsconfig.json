@@ -1,9 +1,22 @@
 {
-  "extends": "aegir/src/config/tsconfig.aegir.json",
   "compilerOptions": {
     "outDir": "dist",
     "emitDeclarationOnly": false,
-    "module": "ES2020"
+    "module": "ES2020",
+    "strict": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "target": "es6",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "downlevelIteration": true,
+    "declarationMap": true,
+    "declaration": true,
+    "composite": true,
+    "emitDecoratorMetadata": true,
+    "useUnknownInCatchVariables": false,
+    "experimentalDecorators": true,
+    "resolveJsonModule": true
   },
   "include": [
     "src",
