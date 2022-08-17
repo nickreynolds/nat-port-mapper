@@ -1,15 +1,15 @@
 {
-  "name": "@achingbrain/nat-port-mapper",
-  "version": "1.0.7",
+  "name": "@nickreynolds/nat-port-mapper",
+  "version": "1.0.1",
   "description": "Port mapping with UPnP and NAT-PMP",
   "license": "Apache-2.0 OR MIT",
-  "homepage": "https://github.com/achingbrain/nat-port-mapper#readme",
+  "homepage": "https://github.com/nickreynolds/nat-port-mapper#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/achingbrain/nat-port-mapper.git"
+    "url": "git+https://github.com/nickreynolds/nat-port-mapper.git"
   },
   "bugs": {
-    "url": "https://github.com/achingbrain/nat-port-mapper/issues"
+    "url": "https://github.com/nickreynolds/nat-port-mapper/issues"
   },
   "keywords": [
     "api",

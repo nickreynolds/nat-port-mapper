@@ -1,7 +1,7 @@
-# @achingbrain/nat-port-mapper
+# @nickreynolds/nat-port-mapper
 
-[![Build Status](https://github.com/achingbrain/nat-port-mapper/actions/workflows/js-test-and-release.yml/badge.svg?branch=master)](https://github.com/achingbrain/nat-port-mapper/actions/workflows/js-test-and-release.yml)
-[![Coverage Status](https://coveralls.io/repos/achingbrain/nat-port-mapper/badge.svg?branch=master&service=github)](https://coveralls.io/github/achingbrain/ssdp?branch=master)
+[![Build Status](https://github.com/nickreynolds/nat-port-mapper/actions/workflows/js-test-and-release.yml/badge.svg?branch=master)](https://github.com/achingbrain/nat-port-mapper/actions/workflows/js-test-and-release.yml)
+[![Coverage Status](https://coveralls.io/repos/nickreynolds/nat-port-mapper/badge.svg?branch=master&service=github)](https://coveralls.io/github/achingbrain/ssdp?branch=master)
 
 > Fast port mapping with **UPnP** and **NAT-PMP** in NodeJS
 
@@ -55,6 +55,7 @@ client.close()
 ## Credits
 
 Based on [alxhotel/nat-api](https://github.com/alxhotel/nat-api)
+Forked from [@achingbrain/nat-port-matter](https://github.com/achingbrain/nat-port-mapper)
 
 ## Additional Information
 
@@ -64,4 +65,4 @@ Based on [alxhotel/nat-api](https://github.com/alxhotel/nat-api)
 
 ## License
 
-[Apache-2.0](LICENSE-APACHE) or [MIT](LICENSE-MIT) © Protocol Labs
+[Apache-2.0](LICENSE-APACHE) or [MIT](LICENSE-MIT) 
