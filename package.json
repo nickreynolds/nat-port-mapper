@@ -133,7 +133,7 @@
     "lint": "aegir lint",
     "dep-check": "aegir dep-check",
     "build": "tsc --build",
-    "release": "npm release",
+    "release": "npm publish",
     "test": "aegir test",
     "test:node": "aegir test -t node"
   },
